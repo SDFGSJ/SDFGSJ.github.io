@@ -5,7 +5,7 @@
   ],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.demo",
+    "package_name": "com.example.android",
     "sha256_cert_fingerprints":["19:81:22:D2:48:B8:79:BB:FB:19:E2:96:50:55:A4:C5:AD:B6:56:E9:EC:06:5A:9D:D0:7C:3A:5B:E7:2D:CA:94"]
   }
 }]
